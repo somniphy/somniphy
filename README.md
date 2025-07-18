@@ -28,8 +28,8 @@ I'm a **Web Developer**, **UI/UX Designer** and **Automation Enthusiast** passio
 
 📈 **GitHub Stats**
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?somniphy&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somniphy&layout=compact)
 
 ---
 
