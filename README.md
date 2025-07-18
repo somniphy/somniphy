@@ -35,7 +35,7 @@ I'm a **Web Developer**, **UI/UX Designer** and **Automation Enthusiast** passio
 
 📫 **Let's Connect!**
 
-- 📧 Email: penalescjay@example.com  
+- 📧 Email: penalescjay@gmail.com  
 - 🌐 Portfolio: [portfolio-chrispenales.vercel.app](https://portfolio-chrispenales.vercel.app/)  
 - 🏀 Dribbble : [dribbble.com/chan999u](https://dribbble.com/chan999u/shots)
 - 💼 LinkedIn: [linkedin.com/in/chrispenales](https://linkedin.com/in/chrispenales)
