@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Christian Jay Penales!
 
-I'm a **Web Developer**, **UI/UX Designer** and **Automation Enthusiast** passionate about building modern websites and Automating business operations.
+I'm a **Web Developer** and **UI/UX Designer**  passionate about building modern websites.
 
 ---
 
@@ -13,15 +13,12 @@ I'm a **Web Developer**, **UI/UX Designer** and **Automation Enthusiast** passio
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
 ![Inertia.js](https://img.shields.io/badge/-Inertia.js-3B8070?style=flat&logo=javascript)  
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat)  
-![Make.com](https://img.shields.io/badge/-Make.com-000?logo=make&logoColor=white&style=flat)
 
 ---
 
 📌 **What I Do**
 
 - 🔧 Build modern, responsive websites and web apps  
-- 🤖 Automate business workflows using tools like Make.com  
-- 🧩 Integrate third-party APIs and no-code tools  
 - 🎨 Design clean, functional user interfaces
 
 ---
@@ -37,9 +34,6 @@ I'm a **Web Developer**, **UI/UX Designer** and **Automation Enthusiast** passio
 
 - 📧 Email: penalescjay@gmail.com  
 - 🌐 Portfolio: [portfolio-chrispenales.vercel.app](https://portfolio-chrispenales.vercel.app/)  
-- 🏀 Dribbble : [dribbble.com/chan999u](https://dribbble.com/chan999u/shots)
 - 💼 LinkedIn: [linkedin.com/in/chrispenales](https://linkedin.com/in/chrispenales)
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
